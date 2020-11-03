@@ -2,7 +2,7 @@
 
 Clone This Project (Make Sure You Have Git Installed)
 ```
-https://github.com/Alchemist98/Blog-using-Django-Framework.git
+https://github.com/Alchemist98/E-commerce-webapp-using-Django.git
 ```
 
 Set Database (Make Sure you are in directory same as manage.py)
